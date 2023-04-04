@@ -7,4 +7,4 @@ Task 2: Daniel Boules
   Assign topics to tweets based on most frequent hashtags 
 
 Task 3: Shwena Kak
-  Machine-learning classifier 
+  Machine-learning classifier to evaluate precision and recall. 
