@@ -1,0 +1,4 @@
+Why was selectExpr() used instead of select() in task 1?
+selectExpr() can have SQL expressions as an argument while select() can't
+select() does not work on multiple columns
+select() does not extract from the entire data set
